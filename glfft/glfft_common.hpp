@@ -29,6 +29,7 @@
 #include <cstring>
 #include <memory>
 #include <unordered_map>
+#include <stdexcept>
 
 namespace GLFFT
 {
